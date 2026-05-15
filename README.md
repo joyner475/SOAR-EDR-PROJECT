@@ -21,7 +21,7 @@ The objective of this project is to design, implement, and operationalize a simp
 ### Tools Used
 
 - Security Information and Event Management (SIEM) system (Splunk) for log ingestion and analysis.
-- A cloud based SecOp platform (Limacharlie) for log management and endpoint detections.
+- A cloud based SecOp EDR platform (Limacharlie) for log management and endpoint detections.
 - A SOAR and wrokflow automation platform ( Tines ) for sending alerts and isolating infected machines
 ## Steps
 
