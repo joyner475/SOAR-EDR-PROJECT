@@ -42,11 +42,11 @@ Ref2: limacharlie dashboard
 ## step3
 
 ## Generating Telemetry using Lazage(credential recovery hacktool)
-## Creating a Dtection and Response rule
+## Creating a Detection and Response rule
 <img width="1539" height="502" alt="Screenshot 2026-05-16 110116" src="https://github.com/user-attachments/assets/bc77c3b1-007b-4157-b6dc-d484c4724971" />
 Ref3: creating a Rule in limacharlie
 
-## Step3
+## Step4
   ## Setting up slack and tines
 
   ## Slack 
@@ -58,12 +58,12 @@ Ref3: creating a Rule in limacharlie
 
 Ref5: Tines dashboard with a new created story
 
-## Step4
+## Step5
   ## Testing the connection between Tines and Limacharlie
   <img width="1919" height="962" alt="Screenshot 2026-05-16 120844" src="https://github.com/user-attachments/assets/51a06a4d-8561-4535-a03b-e0182c5d482b" />
 Ref6: connected tines with limacharlie using a webhook
 
-## Step5
+## Step6
   ## Sending a slack message
   <img width="1899" height="877" alt="Screenshot 2026-05-16 124124" src="https://github.com/user-attachments/assets/0f74a75e-eb4e-4739-95e9-42f9665a9970" />
 Ref7: received an alert message from slack 
