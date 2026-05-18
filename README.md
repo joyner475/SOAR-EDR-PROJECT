@@ -5,16 +5,16 @@
 The objective of this project is to design, implement, and operationalize a simple Security Orchestration, Automation, and Response (SOAR) solution integrated with Endpoint Detection and Response (EDR) and Security Information and Event Management (SIEM) capabilities. This initiative will leverage LimaCharlie, Splunk, and Tines to significantly enhance threat detection, accelerate incident response, and strengthen the overall cybersecurity resilience of my created lab organization.
 
 ### Skills Learned
-   ### Technical skills
+### Technical skills
 - intergration of multiple security tools (limacharlie + splunk + tines) to create a unified security operation pipeline
 - Development of automated incident response playbooks for common and high-severity threats (malware, ransomware, lateral movement, credential abuse)
 - Alert enrichment, false positive reduction, and intelligent decision-making through automation.
 - API integrations and webhook configurations between EDR, SIEM, and SOAR platforms.
-  ### Incident response skills
+### Incident response skills
 - Real-time threat detection, investigation, and containment on endpoints
 - Creation and optimization of custom detection rules in LimaCharlie
 - Proactive threat hunting techniques using EDR telemetry and SIEM data
-  ### Proffessional security operation skills
+### Proffessional security operation skills
 - Real-time monitoring, metrics tracking, and executive-level reporting using Splunk and Tines dashboards.
 - Slack-based security alerting and team collaboration workflows.
 
@@ -28,6 +28,7 @@ The objective of this project is to design, implement, and operationalize a simp
 ## Creating the playbook workflow
 <img width="1540" height="949" alt="Screenshot 2026-05-15 105532" src="https://github.com/user-attachments/assets/8215b4e7-c98c-45c8-b531-92f1fe55cf5d" />
 Ref1: the SOAR-EDR playbook workflow diagram
+
 ## Step2
 
 ## Installing and setting up Limacharlie in windows server.
@@ -39,6 +40,7 @@ Ref1: the SOAR-EDR playbook workflow diagram
 
     <img width="1857" height="795" alt="Screenshot 2026-05-15 110430" src="https://github.com/user-attachments/assets/f0f47bda-48f8-42c0-af69-a8f5a1824207" />
 Ref2: limacharlie dashboard
+
 ## step3
 
 ## Generating Telemetry using Lazage(credential recovery hacktool)
@@ -64,11 +66,11 @@ Ref5: Tines dashboard with a new created story
 Ref6: connected tines with limacharlie using a webhook
 
 ## Step6
-  ## Sending a slack message
+  ## Sending a slack alert message
   <img width="1899" height="877" alt="Screenshot 2026-05-16 124124" src="https://github.com/user-attachments/assets/0f74a75e-eb4e-4739-95e9-42f9665a9970" />
 Ref7: received an alert message from slack 
 
-  ## Sending an email
+  ## Sending an alert email
   <img width="1919" height="899" alt="Screenshot 2026-05-16 124711" src="https://github.com/user-attachments/assets/ff6f7e87-cfd3-4859-98bd-2fd1f3f2d917" />
 Ref8: Sending an alert email 
 
